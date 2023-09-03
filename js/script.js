@@ -89,3 +89,4 @@ window.addEventListener("scroll", () => {
 
 sr.reveal(`.about-imageContent, .menu-items`, {origin: 'left'})
 sr.reveal(`.about-details, .time-table`, {origin: 'right'})
+
