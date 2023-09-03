@@ -1001,3 +1001,9 @@ img{
     background-size: 0% 0%, 0% 0%, 0% 0%, 0% 0%, 0% 0%, 0% 0%;
   }
 }
+.bxl-facebook{
+  /* Set the width and height to make it bigger */
+
+  size: 100
+  /* You can adjust these values as needed */
+}
