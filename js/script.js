@@ -84,6 +84,8 @@ window.addEventListener("scroll", () => {
     delay: 400,
   })
 
+
+  
  
   
   sr.reveal(`.section-title, .section-subtitle, .section-description, .brand-image, .tesitmonial, .newsletter 
